@@ -112,7 +112,7 @@ html{
 /* #home .content .greet .connect{
     
     /* background: red; */
-} */
+/* } */ 
 #home .content .greet .connect .fas{
     margin-right: 1rem;
     color: var(--red);
